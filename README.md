@@ -1,6 +1,7 @@
 # Store AI
 
-![image](https://github.com/iamcbn/Store_AI/assets/132440348/df8ae2a4-4b94-4a5e-a8ac-b49944855a21)  
+![image](https://github.com/iamcbn/Store_AI/assets/132440348/c060ba14-4bb0-4f58-8400-72d1c9ce270d)
+
 This is a simple store management system that allows employees to process sales requests and check in, as well as check out from their shift.
 
 # Introduction
